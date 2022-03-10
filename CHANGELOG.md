@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/jl917/sample_npm_unpkg/compare/v1.0.1...v1.0.2) (2022-03-10)
+
+
+### Bug Fixes
+
+* color change ([1cb6d12](https://github.com/jl917/sample_npm_unpkg/commit/1cb6d12d95102853519f8a53c009a7f0ca6eb050))
+
 ## [1.0.1](https://github.com/jl917/sample_npm_unpkg/compare/v1.0.0...v1.0.1) (2022-03-10)
 
 

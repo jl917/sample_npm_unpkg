@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/jl917/sample_npm_unpkg/compare/v1.0.0...v1.0.1) (2022-03-10)
+
+
+### Bug Fixes
+
+* pack main변경 ([3529856](https://github.com/jl917/sample_npm_unpkg/commit/35298566c1785530e293ef1ae700d0479d5da1d0))
+
 # 1.0.0 (2022-03-10)
 
 

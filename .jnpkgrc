@@ -1,0 +1,7 @@
+{
+  "es": false,
+  "lib": false,
+  "browser": true,
+  "pkgName": "snu",
+  "entry": "./src/index.js"
+}

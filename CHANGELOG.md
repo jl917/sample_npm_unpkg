@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/jl917/sample_npm_unpkg/compare/v1.0.3...v1.0.4) (2022-03-11)
+
+
+### Bug Fixes
+
+* title component 추가 ([53fd0d6](https://github.com/jl917/sample_npm_unpkg/commit/53fd0d683993684b204931ac710e23255a1aa5ac))
+
 ## [1.0.3](https://github.com/jl917/sample_npm_unpkg/compare/v1.0.2...v1.0.3) (2022-03-10)
 
 
